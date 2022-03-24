@@ -15,3 +15,4 @@ int main()
     }
     cout << " Sum of the series:" << sum  << endl;
 }
+//first comment
